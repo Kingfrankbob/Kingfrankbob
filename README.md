@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Kingfrankbob
+- 👋 Hi, I’m @Kingfrankbob, other aliases are: MesaDePrimos, AmusingButler
 - 👀 I’m interested in many different languages.
-- 🌱 I’m currently learning java...
-- 💞️ I’m looking to collaborate on an AI, or a towerdefense and or strategy game like Minustry or Factorio.
+- 🌱 I’m currently learning java, and increasing skills in c#...
+- 💞️ I’m looking to collaborate on an AI, or a towerdefense and or Strategy/Resource-Management game like Minustry or Factorio.
 - 📫 How to reach me AJWpcc@gmail.com or on discord. 
-- Im currently Working on c# projects like a frogger on console and such, along with the AOC
+- Im currently Working Retro-Racer, a console based Racing game!!!
 
 <!---
 Kingfrankbob/Kingfrankbob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
