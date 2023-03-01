@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on an AI, or a towerdefense and or Strategy/Resource-Management game like Minustry or Factorio.
 - 📫 How to reach me AJWpcc@gmail.com or on discord. 
 - Im currently Working Retro-Racer, a console based Racing game!!!
+<img src="https://profile-counter.glitch.me/kingfrankbob/count.svg">
 
 <!---
 Kingfrankbob/Kingfrankbob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
