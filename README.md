@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Kingfrankbob, other aliases are: MesaDePrimos, AmusingButler
-- 👀 I’m interested in many different languages.
-- 🌱 I’m currently learning java, and increasing skills in c#...
-- 💞️ I’m looking to collaborate on an AI, or a towerdefense and or Strategy/Resource-Management game like Minustry or Factorio.
-- 📫 How to reach me AJWpcc@gmail.com or on discord. 
-- Im currently Working Retro-Racer, a console based Racing game!!!
+- NOTICE: Any unlicensed projwects on here should be listed under the MIT license <href>HERE!</href link="https://opensource.org/license/mit/">
+- I'd love to collab on any projects you think, im a pretty open guy!
+- If you have any simple project suggestions, lmk because I can take a look
+- 3D printing is also something that I love to do in my spare time!!!
+- Working Full-Time right now so sorry for the slower development.
 
 <h2>Total Visitor Count:</h2>
 <img src="https://profile-counter.glitch.me/kingfrankbob/count.svg">
