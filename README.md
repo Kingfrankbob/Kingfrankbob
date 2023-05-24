@@ -1,4 +1,4 @@
-<h2 style="text-align: center;">About Me:</h2>
+## About Me:
 - 👋 Hi, I’m @Kingfrankbob, other aliases are: MesaDePrimos, AmusingButler
 - NOTICE: Any unlicensed projwects on here should be listed under the MIT license <a href="https://opensource.org/license/mit/">HERE!</a>
 - I'd love to collab on any projects you think, im a pretty open guy!
@@ -6,7 +6,7 @@
 - 3D printing is also something that I love to do in my spare time!!!
 - Working Full-Time right now so sorry for the slower development.
 
-<h2>Total Visitor Count:</h2>
+## Total Visitor Count:
 <img src="https://profile-counter.glitch.me/kingfrankbob/count.svg">
 <hr>
 <p> I have been working on my current website which can be found at <a href="https://kingfrankbob.github.io/">https://kingfrankbob.github.io/ </a></p>
